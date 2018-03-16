@@ -15,7 +15,7 @@ public class HelloWorldD {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldD.class, args);
-
+        String name;
 	}
 
 }
